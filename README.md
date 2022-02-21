@@ -7,7 +7,7 @@
 
 
 ## Images
-[link to images folder](./authoring/images)
+[link to images folder](/authoring/images)
 
 ## Emojis 
 

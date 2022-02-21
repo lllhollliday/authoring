@@ -1,23 +1,28 @@
 # Github Flavoured Markdown 
 
-## []External Link
+## - [x]External Link
 [link](https://help.github.com/en)
 
-## [] Internal Link
+## - [] Internal Link
 
 
-## [] Images
+## - [x] Images
 [link to images folder](/images)
+! [foto](/images/hamboy.jpg)
 
-## [] Emojis 
 
-👽
+## - [x] Emojis 
+
+👽 ✨ 🌝 🍤 
  
 
-## [] Tables
+## - [x] Tables
 
-| Heading 1 | Heading 2 |
-| :-------: | :-------: |
-| content 1 | content 2 |
-| :-------: | :-------: |
-| content 3 | content 4 |
++------------------------+--------------+
+|        header 1        |   header 2   |
++========================+==============+
+| - row 1, col 1,        | row 1, col 2 |
+|                        |              |
++------------------------+--------------+
+| - row 2, col 1         | row 2, col 2 |
++------------------------+--------------+

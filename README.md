@@ -16,7 +16,7 @@ documentation [here](https://help.github.com/en).
 
 Here you can find the [images folder](/images/).
 
-![github-logo](/images/hamboy.png)
+![hammy](/images/hamboy.jpg)
 
 ## Emojis
 

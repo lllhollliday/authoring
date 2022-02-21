@@ -1,28 +1,33 @@
-# Github Flavoured Markdown 
+# Github Flavoured Markdown
 
-## - [x]External Link
-[link](https://help.github.com/en)
+## Checkboxes
 
-## - [] Internal Link
+- [X] [External Link](#external-link)
+- [X] [Internal Link](#checkboxes)
+- [X] [Images](#images)
+- [X] [Emojis](#emojis)
+- [X] [Tables](#tables)
 
+## External Link
 
-## - [x] Images
-[link to images folder](/images)
-! [foto](/images/hamboy.jpg)
+documentation [here](https://help.github.com/en).
 
+## Images
 
-## - [x] Emojis 
+Here you can find the [images folder](/images/).
 
-👽 ✨ 🌝 🍤 
- 
+![github-logo](/images/hamboy.png)
 
-## - [x] Tables
+## Emojis
 
-+------------------------+--------------+
-|        header 1        |   header 2   |
-+========================+==============+
-| - row 1, col 1,        | row 1, col 2 |
-|                        |              |
-+------------------------+--------------+
-| - row 2, col 1         | row 2, col 2 |
-+------------------------+--------------+
+:bowtie:
+:smile:
+:laughing:
+:blush:
+
+## Tables
+
+| Name  | Class |
+| ----- | :---: |
+| Fran  |  13a  |
+| Jenna |  19   |

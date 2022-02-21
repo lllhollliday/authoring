@@ -10,5 +10,14 @@
 [link to images folder](/images)
 
 ## [] Emojis 
+👽
+ 
+
 
 ## [] Tables
+
+| Heading 1 | Heading 2 |
+| :-------: | :-------: |
+| content 1 | content 2 |
+| :-------: | :-------: |
+| content 3 | content 4 |
